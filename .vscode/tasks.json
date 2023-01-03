@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "Web_1.1/react-footer",
+			"problemMatcher": [],
+			"label": "npm: start - Web_1.1/react-footer",
+			"detail": "react-scripts start"
+		}
+	]
+}
